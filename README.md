@@ -1,5 +1,5 @@
 <div align="center">
-<img src="src/main/resources/assets/notsosecret/icon.png" width="128" height="128" alt="ZonifiedBeta icon">
+<img src="src/main/resources/assets/notsosecret/icon.png" width="128" height="128" alt="NotSoSecret icon">
 <h1 style="padding-top: 0;">NotSoSecret</h1>
 
 [![Download](https://img.shields.io/modrinth/v/NotSoSecret?logo=modrinth&label=Modrinth&color=0bc95a)](https://modrinth.com/mod/NotSoSecret)
